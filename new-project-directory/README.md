@@ -25,10 +25,10 @@ This folder contains images related to the repository.
 
 | Organism                 |  Image Link     |
 |--------------------------|-----------------|
-|*Acanthomyrmex ferox*| ![Acanthomyrmex ferox]()|
-|*Camponotus darwinii*| ![Camponotus darwinii]()|
-|*Cataglyphis fortis*| ![Cataglyphis fortis]()|
-|*Rhytidoponera metallica*| ![Rhytidoponera metallica]()|
+|*Acanthomyrmex ferox*| ![Acanthomyrmex ferox](images/Acanthomyrmex_ferox.jpg)|
+|*Camponotus darwinii*| ![Camponotus darwinii](images/Camponotus_darwinii.jpg)|
+|*Cataglyphis fortis*| ![Cataglyphis fortis](images/Cataglyphis_fortis.jpg)|
+|*Rhytidoponera metallica*| ![Rhytidoponera metallica](images/Rhytidoponera_metallica.jpg)|
 
 ## Tables
 
